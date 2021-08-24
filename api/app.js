@@ -98,6 +98,8 @@ const allowedDomains = [
   "https://admin-pmware.netlify.app"
 ];
 app.use(xss());
+app.options("*", cors());
+
 app.use(
   cors({
     credentials: true,
@@ -113,7 +115,6 @@ app.use(
     },
   })
 );
-app.options("*", cors());
 
 //ROUTES
 app.use("/api", authenRouter);
