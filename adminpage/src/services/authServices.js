@@ -7,7 +7,7 @@ export const login = (email, password) => {
     { email, password },
     {
       headers: {
-        "Content-Type": "application/x-www-form-urlencoded",
+        "Content-Type": "application/json",
       },
       withCredentials: true,
     }
@@ -16,7 +16,7 @@ export const login = (email, password) => {
 export const logout = () => {
   return axios.get(`${DOMAIN_CLIENT}logout`, {
     headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
+      "Content-Type": "application/json",
     },
     withCredentials: true,
   });
