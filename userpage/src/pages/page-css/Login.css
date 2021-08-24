@@ -1,0 +1,35 @@
+
+.login-container{
+    height: 600px;
+}
+.login-form-wrapper{
+    margin-top: 50px;
+    text-align: center;
+    transition: box-shadow .3s;
+    height: 550px;
+    border-radius:10px;
+    border: 1px solid #ccc;
+    background: #fff;
+    float: left;
+}
+.login-form-wrapper h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.login-form-wrapper:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.login-form{
+padding: 0 20px 0 20px;
+}
+.btn-google{
+    text-align: center;
+    padding: 0 20px 0 20px;
+}
+.btn-google button{
+    width: 100%;
+    border-radius: 10px;
+}

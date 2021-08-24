@@ -1,0 +1,21 @@
+.login-form-wrapper {
+  padding: 64px 32px 409px 32px;
+  background: #424242;
+}
+
+.login-background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.login-form-wrapper .form-controls {
+  height: 56px;
+  font-size: 20px;
+}
+.login-form-wrapper .form-controls * {
+  font-size: 18px;
+}
+.login-form-button {
+  width: 100%;
+  height: 40px;
+}

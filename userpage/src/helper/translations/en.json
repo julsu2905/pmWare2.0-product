@@ -1,0 +1,41 @@
+{
+  "NAVBAR": {
+    "Home": "Home"
+  },
+  "DASHBOARD": {
+    "dashboard": "Dashboard",
+    "overviewSummary": "Overview Summary",
+    "rooms": "rooms",
+    "frontDesk": "Front Desk",
+    "arrivals": "Arrivals",
+    "expected": "Expected",
+    "actual": "Actual",
+    "rms": "rms",
+    "guests": "guests",
+    "guest": "guest",
+    "roomPlan": "Room Plan",
+    "roomRack": "Room Rack",
+    "endOfDay": "End Of Day",
+    "occupiedTonight": "Occupied Tonight",
+    "availableTonight": "Available Tonight",
+    "roomRevenue": "Room Revenue",
+    "avarageRoomRate": "Avarage Room Rate",
+    "room": "Room",
+    "pax": "PAX",
+    "revenue": "Revenue",
+    "last7Day": "Last 7 day",
+    "next7Day": "Next 7 day",
+    "revenueForNext7Days": "Revenue for the next 7 days",
+    "source": "Source",
+    "market": "Market",
+    "cashier": "Cashier",
+    "inHouse": "In-House",
+    "balance": "Balance",
+    "departures": "Departures",
+    "housekeeping": "Housekeeping",
+    "unresolvedTrace": "Unresolved Trace",
+    "fullname": "Full name",
+    "age": "Age",
+    "7DaysOccupancyStatistic": "7 DAYS OCCUPANCY STATISTIC"
+  }
+}

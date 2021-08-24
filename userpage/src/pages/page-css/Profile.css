@@ -1,0 +1,25 @@
+.content-profile{
+      border-radius: 10px;
+      background-color: #F2F2F2;
+   padding: 10px;
+  }
+  .content-profile h1{
+      font-size: 30px;
+      font-weight: bold;
+  }
+  .row-profile-content{
+    background-color: #F2F2F2;
+  }
+.row-input{
+    margin-top: 10px;
+}
+
+.col-profile{
+    border-radius: 10px;
+   background-color: #F2F2F2;
+   padding: 10px;
+}
+.col-profile .profile{
+    background-color: white;
+   
+}

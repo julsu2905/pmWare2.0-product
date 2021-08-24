@@ -1,0 +1,22 @@
+.user-card {
+  text-align: center;
+  background-color: #2d2d2d;
+  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 2s; /* Firefox < 16 */
+  -ms-animation: fadein 2s; /* Internet Explorer */
+  -o-animation: fadein 2s; /* Opera < 12.1 */
+  animation: fadein 2s;
+}
+.user-card__icon {
+  display: flex !important;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}

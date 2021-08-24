@@ -1,0 +1,97 @@
+.div-nofitication {
+  height: 390px;
+  width: 500px;
+  border: 1px solid #ccc;
+  background: #fff;
+  overflow-y: scroll;
+  border-radius: 10px;
+}
+.nav-wrapper {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.div-nofitication {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.markAll {
+  text-align: right;
+  padding-right: 10px;
+}
+.div-nofitication h2 {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.content-nofitication:hover {
+  background-color: #ceecf5;
+  border-radius: 10px;
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.divider-actorName {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.time-change {
+  color: gray;
+  font-style: italic;
+  font-size: 13px;
+}
+.notification.notify {
+  background-color: white;
+  width: 37px;
+  height: 37px;
+  padding: 0px 0px 10px 0px;
+  margin-top: 5px;
+}
+.notification-container {
+  text-align: center;
+}
+.fade.show.popover.bs-popover-bottom {
+  min-width: 400px;
+}
+
+.action-noti {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  color: gray;
+  margin-top: 15px;
+}
+
+.action-noti:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.action-noti a {
+  text-decoration: none;
+}
+.Badge {
+  background-color: blue;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.modal-removeNoti {
+  position: absolute;
+  z-index: 1;
+  margin-left: 32%;
+}
+.no-Notifications {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+.no-Notifications img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-top: 20px;
+}

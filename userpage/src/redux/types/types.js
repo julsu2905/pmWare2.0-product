@@ -1,0 +1,6 @@
+export const USER_LOGGEDIN = "USER_LOGGEDIN";
+export const USER_LOGGEDOUT = "USER_LOGGEDOUT";
+export const SELECT_PROJECT = "SELECT_PROJECT";
+export const SELECT_SUBTASK = "SELECT_SUBTASK";
+export const SELECT_TASK = "SELECT_TASK";
+

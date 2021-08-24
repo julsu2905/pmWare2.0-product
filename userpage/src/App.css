@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+.ant-layout-content {
+  background-color: white;
+}
+.text-center {
+  text-align: center;
+}
+.center-header .ant-table-thead > tr > th {
+  text-align: center;
+  font-weight: bold;
+}
+h1{
+  font-size:32px !important;
+}
+.ant-notification{
+    z-index: 999;
+}

@@ -1,0 +1,59 @@
+{
+  "User": "Người dùng",
+  "NAVBAR": {
+    "Home": "Trang chủ",
+    "GreetingDashboard": "Trang thống kê PM Ware",
+    "GreetingPrice": "Trang Quản trị gói PM Ware",
+    "description": "Lần cuối cập nhật"
+  },
+  "Price": "Gói",
+  "SIDEBAR": {
+    "Dashboard": "Thống kê",
+    "Code": "Mã",
+    "Banner": "Banner",
+    "Promotion": "Khuyến mãi",
+    "Settings": "Cài đặt thêm"
+  },
+  "DASHBOARD": {
+    "TotalProject": "Tổng số dự án",
+    "TotalUser": "Tổng số người dùng",
+    "TotalIncome": "Tổng số thu nhập",
+    "Sales": "Doanh thu theo tháng",
+    "LastestOrders": "Đơn hàng mới nhất",
+    "TotalBill": "Tổng giá trị",
+    "Package": "Tên gói",
+    "Date": "Ngày mua"
+  },
+  "SignIn": "Đăng nhập",
+  "EmailRequiredMes": "Vui lòng nhập Email!",
+  "EmailInvalidMes": "Email không hợp lệ!",
+  "PassRequiredMes": "Vui lòng nhập Password!",
+  "Remember": "Ghi nhớ",
+  "Name": "Tên",
+  "PRICE": {
+    "Currency": "Đơn vị tiền tệ",
+    "blockPackageMes": "Bạn có muốn tắt gói này?",
+    "unblockPackageMes": "Bạn có muốn mở gói này?",
+    "blockPackageSuccessMes": "Tắt gói thành công!",
+    "blockPackageFailMes": "Tắt gói thất bại!",
+    "unblockPackageSuccessMes": "Mở gói thành công!",
+    "unblockPackageFailMes": "Mở gói thất bại!",
+    "Create": "Tạo gói",
+    "Edit": "Sửa gói",
+    "UPDATE": {
+      "SuccesMes": "Cập nhật gói thành công!",
+      "PriceRequiredMes": "Vui lòng nhập giá mới!",
+      "ConfirmMes":"Bạn có muốn cập nhật giá này?"
+    },
+    "CREATE": {
+      "SuccesMes": "Tạo mới gói thành công!",
+      "PriceRequiredMes": "Vui lòng nhập giá mới!",
+      "ConfirmMes":"Bạn có muốn Tạo mới gói này?"
+    }
+  },
+  "LastModified": "Lần cuối cập nhật",
+  "ModifiedBy": "Cập nhật bởi",
+  "Actions": "Thao tác",
+  "Annoucement": "Thông báo",
+  "Cancel": "Hủy"
+}

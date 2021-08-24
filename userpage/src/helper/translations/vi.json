@@ -1,0 +1,41 @@
+{
+  "NAVBAR": {
+    "Home": "Trang chủ"
+  },
+  "DASHBOARD": {
+    "dashboard": "Bảng điều khiển",
+    "overviewSummary": "Tổng quan",
+    "rooms": "phòng",
+    "frontDesk": "Lễ tân",
+    "arrivals": "Khách đến",
+    "expected": "Dự báo",
+    "actual": "Thực tế",
+    "rms": "phòng",
+    "guests": "khách",
+    "guest": "khách",
+    "roomPlan": "Room Plan",
+    "roomRack": "Room Rack",
+    "endOfDay": "Cuối ngày",
+    "occupiedTonight": "Đã có khách đêm nay",
+    "availableTonight": "Trống đêm nay",
+    "roomRevenue": "Doanh thu phòng",
+    "avarageRoomRate": "Giá phòng trung bình",
+    "room": "Phòng",
+    "pax": "PAX",
+    "revenue": "Doanh thu",
+    "last7Day": "7 ngày trước",
+    "next7Day": "7 ngày tiếp theo",
+    "revenueForNext7Days": "Doanh thu cho 7 ngày tiếp theo",
+    "source": "Nguồn",
+    "market": "Thị trường",
+    "cashier": "Thu ngân",
+    "inHouse": "In-house",
+    "balance": "Balance",
+    "departures": "Khach rời đi",
+    "housekeeping": "Việc quản gia",
+    "unresolvedTrace": "Unresolved Trace",
+    "fullname": "Họ và tên",
+    "age": "Tuổi",
+    "7DaysOccupancyStatistic": "Thống kê sở hữu trong 7 ngày"
+  }
+}

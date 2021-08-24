@@ -1,0 +1,8 @@
+.selected {
+  background: #ee8b47 !important;
+  color: #000 !important;
+}
+.lang-switch img {
+  max-height: -webkit-fill-available;
+  max-width: -webkit-fill-available;
+}

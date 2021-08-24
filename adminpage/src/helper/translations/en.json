@@ -1,0 +1,54 @@
+{
+  "User": "User",
+  "NAVBAR": {
+    "Home": "Home",
+    "GreetingDashboard": "Welcome to PM Ware Dashboard",
+    "GreetingPrice": "Welcome to Package management",
+    "description": "Last changed"
+  },
+  "Price": "Package",
+  "SIDEBAR": {
+    "Dashboard": "Dashboard",
+    "Code": "Code",
+    "Banner": "Banner",
+    "Promotion": "Khuyến mãi",
+    "Settings": "Settings"
+  },
+  "DASHBOARD": {
+    "TotalProject": "Total Project",
+    "TotalUser": "Total User",
+    "TotalIncome": "Total Income",
+    "Sales": "Sales Analytics",
+    "LastestOrders": "Lastest Orders",
+    "TotalBill": "Total Bill",
+    "Package": "Package",
+    "Date": "Date"
+  },
+  "SignIn": "Sign In",
+  "EmailRequiredMes": "Please input your email!",
+  "EmailInvalidMes": "The input is not valid E-mail!",
+  "PassRequiredMes": "Please input your Password!",
+  "Remember": "Remember",
+  "Name": "Name",
+  "PRICE": {
+    "Currency": "Currency",
+    "blockPackageMes": "Do you want to turn this package off?",
+    "unblockPackageMes": "Do you want to turn this package on?",
+    "blockPackageSuccessMes": "Turn off package successfully!",
+    "blockPackageFailMes": "Turn off package failed!",
+    "unblockPackageSuccessMes": "Turn on package successfully!",
+    "unblockPackageFailMes": "Turn on package failed!",
+    "Create": "Create Package",
+    "Edit": "Edit Package",
+    "UPDATE": {
+      "SuccesMes": "Update Price Successfully!",
+      "PriceRequiredMes": "Please enter new price to update!",
+      "ConfirmMes": "Do you want to update the price?"
+    }
+  },
+  "LastModified": "Last Modified Date",
+  "ModifiedBy": "Modified By",
+  "Actions": "Actions",
+  "Annoucement": "Annoucement",
+  "Cancel": "Cancel"
+}

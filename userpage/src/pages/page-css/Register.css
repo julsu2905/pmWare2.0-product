@@ -1,0 +1,29 @@
+.register-form-wrapper {
+  margin-top: 20px;
+  transition: box-shadow 0.3s;
+  height: 800px;
+
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+}
+.register-form-wrapper:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.register-form-wrapper h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  font-family: "Courier New", Courier, monospace;
+}
+.register-input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-register {
+  width: 100%;
+  border-radius: 10px;
+}

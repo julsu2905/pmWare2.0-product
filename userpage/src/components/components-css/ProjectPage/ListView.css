@@ -1,0 +1,83 @@
+.col-left{
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+/* modal add task */
+.priority-color{
+    border-radius: 50%;
+}
+#critical-color{
+    background-color: #DF0101;
+    color: #DF0101;
+}
+#high-color{
+    background-color: #FE2E2E;
+    color: #FE2E2E;
+}
+#normal-color{
+    background-color: #3ADF00;
+    color: #3ADF00;
+}
+#low-color{
+    background-color: #FFFF00;
+    color: #FFFF00;
+}
+.list-view-project{
+    color: black;
+    font-size: 16px;
+      border-radius: 10px;
+      background-color: #F2F2F2;
+      padding: 10px;
+      width: auto;
+  }
+.assignee-col{
+
+    background-color: greenyellow;
+}
+.row-list-content{
+    width: auto;
+}
+h3{
+    font-size:32px !important;
+}
+  
+.box-moderator{
+    font-family: sans-serif;
+    text-transform: uppercase;
+border-radius: 5px;
+background-color: white;
+border: 1px solid #ccc;
+}
+.box-moderator{
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.croll-moderators{
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: white;
+    overflow-y: scroll;
+    height: 70px;
+    border: 1px solid black;
+}
+/* .ant-table-tbody td  {
+    border: 1px solid red !important;
+}
+ */
+ /* .expiration-date{
+     border: 1px solid red;
+ } */
+ .noti-expiration-date{
+    border: 1px solid #ccc;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+     font-size: 16px;
+     text-align: center;
+     margin-top: 10px;
+ }
+ .noti-expiration-date:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    border: 1px solid red;
+ }
