@@ -6,12 +6,18 @@ export const login = (email, password) => {
     `${DOMAIN_CLIENT}loginAdmin`,
     { email, password },
     {
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
       withCredentials: true,
     }
   );
 };
 export const logout = () => {
   return axios.get(`${DOMAIN_CLIENT}logout`, {
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
     withCredentials: true,
   });
 };
