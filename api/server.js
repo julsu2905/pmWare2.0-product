@@ -4,7 +4,7 @@ const dotenv = require('dotenv');
 dotenv.config({ path: './.env' });
 const app = require('./app');
 
-//const DB = "mongodb+srv://dev:<PASSWORD>@appdevsg.bzvej.mongodb.net/todolist";
+// const DB = "mongodb+srv://dev:TodolistApp2020!@appdevsg.bzvej.mongodb.net/pmware2";
 const DB = process.env.DATABASE.replace(
   '<PASSWORD>',
   process.env.DATABASE_PASSWORD
