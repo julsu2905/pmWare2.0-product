@@ -98,7 +98,6 @@ const allowedDomains = [
   "https://admin-pmware.netlify.app"
 ];
 app.use(xss());
-app.options("*", cors());
 
 app.use(
   cors({
