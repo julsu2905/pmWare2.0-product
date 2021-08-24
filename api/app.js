@@ -95,7 +95,7 @@ const allowedDomains = [
   "http://localhost:3000",
   "http://localhost:9696",
   "https://pmware.netlify.app",
-  "https://admin-pmware.netlify.app/"
+  "https://admin-pmware.netlify.app"
 ];
 app.use(xss());
 app.use(
