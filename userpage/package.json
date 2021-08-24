@@ -20,7 +20,6 @@
     "react-beautiful-dnd": "^13.1.0",
     "react-dom": "^17.0.2",
     "react-i18next": "^11.11.4",
-    "react-notification-timeline": "^0.0.9",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
