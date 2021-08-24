@@ -8,6 +8,7 @@ export const login = (email, password) => {
     {
       headers: {
         "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "https://admin-pmware.netlify.app",
       },
       withCredentials: true,
     }
